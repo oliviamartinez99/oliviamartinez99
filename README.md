@@ -9,7 +9,8 @@ oliviamartinez998i@gmail.com
 <a href=&quothttps://github.com/oliviamartinez99&quot>
 <img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&quot />
 </a>
-
+&theme=dracula
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 <!---
 oliviamartinez99/oliviamartinez99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
