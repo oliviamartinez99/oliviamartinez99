@@ -5,6 +5,12 @@
 - 📫 How to reach me ? 
 oliviamartinez998i@gmail.com
 
+<a href=&quothttps://github.com/oliviamartinez99&quot>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
+<a href=&quothttps://github.com/oliviamartinez99&quot>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&quot />
+
+
 </a>
 &theme=dracula
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
