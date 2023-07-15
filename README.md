@@ -11,8 +11,4 @@ oliviamartinez998i@gmail.com
 <img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&quot />
 
 
-</a>
-&theme=dracula
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
 
